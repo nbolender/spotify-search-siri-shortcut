@@ -14,3 +14,6 @@ A shortcut for Apple's Siri Shortcuts that lets you initiate a Spotify search us
 To install this shortcut, [download the release](https://github.com/nbolender/spotify-search-siri-shortcut/releases/download/v1.0.0/SearchSpotify.shortcut) from your iOS device and choose to open it in the Shortcuts app. This will add the shortcut to your library and make it available for use.
 
 # [:rocket: Download v1.0.0](https://github.com/nbolender/spotify-search-siri-shortcut/releases/download/v1.0.0/SearchSpotify.shortcut)
+
+## Alternatives
+If you have voice control available in your Spotify account, you can use the shortcut created by Reddit user randybruder to open Spotify and trigger the voice assistant: [Discusssion on Reddit](https://www.reddit.com/r/shortcuts/comments/9gzhk9/launch_spotify_right_into_the_voice_control/) | [Screenshot of workflow](https://i.imgur.com/S0ErDJl.png)
